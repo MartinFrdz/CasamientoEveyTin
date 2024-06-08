@@ -23,7 +23,11 @@ h4 {
   font-size: 25px;
   font-weight: 400;
 }
-
+.precio {
+  color: #ffffff;
+  font-size: larger;
+  font-weight: 900;
+}
 .btn {
   font-family: "Montserrat", sans-serif;
   color: white;
